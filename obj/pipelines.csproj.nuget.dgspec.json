@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\desktop\\udacity\\pipelines\\pipelines.csproj": {}
+    "C:\\Users\\admin\\Desktop\\udacity\\pipelines\\dotnetcore\\pipelines.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\desktop\\udacity\\pipelines\\pipelines.csproj": {
+    "C:\\Users\\admin\\Desktop\\udacity\\pipelines\\dotnetcore\\pipelines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\desktop\\udacity\\pipelines\\pipelines.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\udacity\\pipelines\\dotnetcore\\pipelines.csproj",
         "projectName": "pipelines",
-        "projectPath": "C:\\Users\\admin\\desktop\\udacity\\pipelines\\pipelines.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\udacity\\pipelines\\dotnetcore\\pipelines.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\desktop\\udacity\\pipelines\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\udacity\\pipelines\\dotnetcore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

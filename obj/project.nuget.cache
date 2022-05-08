@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XEWuROtrab4xdsfDZi6mkVie6/EdZAMZCV4gJFdlc0D3Lhd09hrAhdpov0SZE8ACImvM+yZADkcvhLPsK+IiLQ==",
+  "dgSpecHash": "Dt40ecK23Df5rMzXW0214SQ7WatF5ursFBQLVkOxVN9+W7094MvvieqdKyRgXkeTcVYYUH65KHThc9x4yRGQxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\desktop\\udacity\\pipelines\\pipelines.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\udacity\\pipelines\\dotnetcore\\pipelines.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
